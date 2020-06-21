@@ -10,7 +10,7 @@
     },
     {
       "city": "Mar del Plata"
-    }
+    },
     {
       "city": "Mendoza"
     }
@@ -34,6 +34,401 @@
   "belgium": [
     {
       "city": "Brussels"
+    }
+  ],
+  "brazil": [
+    {
+      "city": "Anapolis"
+    },
+    {
+      "city": "Angra dos Reis"
+    },
+    {
+      "city": "Aracaju"
+    },
+    {
+      "city": "Aracatuba"
+    },
+    {
+      "city": "Arapiraca"
+    },
+    {
+      "city": "Bage"
+    },
+    {
+      "city": "Barbacena"
+    },
+    {
+      "city": "Barreiras"
+    },
+    {
+      "city": "Bauru"
+    },
+    {
+      "city": "Belem"
+    },
+    {
+      "city": "Belo Horizonte"
+    },
+    {
+      "city": "Blumenau"
+    },
+    {
+      "city": "Boa Vista"
+    },
+    {
+      "city": "Botucatu"
+    },
+    {
+      "city": "Braganca Paulista"
+    },
+    {
+      "city": "Brasilia"
+    },
+    {
+      "city": "Cabo Frio"
+    },
+    {
+      "city": "Cachoeiro de Itapemirim"
+    },
+    {
+      "city": "Campina Grande"
+    },
+    {
+      "city": "Campinas"
+    },
+    {
+      "city": "Campo Grande"
+    },
+    {
+      "city": "Campos dos Goytacazes"
+    },
+    {
+      "city": "Caruaru"
+    },
+    {
+      "city": "Cascavel"
+    },
+    {
+      "city": "Caxias do Sul"
+    },
+    {
+      "city": "Chapeco"
+    },
+    {
+      "city": "Colatina"
+    },
+    {
+      "city": "Conselheiro Lafaiete"
+    },
+    {
+      "city": "Cornelio Procopio"
+    },
+    {
+      "city": "Criciuma"
+    },
+    {
+      "city": "Cuiaba"
+    },
+    {
+      "city": "Curitiba"
+    },
+    {
+      "city": "Divinopolis"
+    },
+    {
+      "city": "Dourados"
+    },
+    {
+      "city": "Feira de Santana"
+    },
+    {
+      "city": "Florianopolis"
+    },
+    {
+      "city": "Fortaleza"
+    },
+    {
+      "city": "Foz do Iguacu"
+    },
+    {
+      "city": "Franca"
+    },
+    {
+      "city": "Garanhuns"
+    },
+    {
+      "city": "Goiania"
+    },
+    {
+      "city": "Governador Valadares"
+    },
+    {
+      "city": "Guarapuava"
+    },
+    {
+      "city": "Ijui"
+    },
+    {
+      "city": "Imperatriz"
+    },
+    {
+      "city": "Ipatinga"
+    },
+    {
+      "city": "Itabira"
+    },
+    {
+      "city": "Itabuna e Ilheus"
+    },
+    {
+      "city": "Itajai"
+    },
+    {
+      "city": "Itajuba"
+    },
+    {
+      "city": "Itaperuna"
+    },
+    {
+      "city": "Itapipoca"
+    },
+    {
+      "city": "Ivaipora"
+    },
+    {
+      "city": "Jequie"
+    },
+    {
+      "city": "Ji-Parana"
+    },
+    {
+      "city": "Joacaba"
+    },
+    {
+      "city": "Joao Pessoa"
+    },
+    {
+      "city": "Joinville"
+    },
+    {
+      "city": "Juazeiro do Norte"
+    },
+    {
+      "city": "Juiz de Fora"
+    },
+    {
+      "city": "Lages"
+    },
+    {
+      "city": "Linhares"
+    },
+    {
+      "city": "Londrina"
+    },
+    {
+      "city": "Macae"
+    },
+    {
+      "city": "Macapa"
+    },
+    {
+      "city": "Maceio"
+    },
+    {
+      "city": "Manaus"
+    },
+    {
+      "city": "Maraba"
+    },
+    {
+      "city": "Marilia"
+    },
+    {
+      "city": "Maringa"
+    },
+    {
+      "city": "Mogi Guacu"
+    },
+    {
+      "city": "Montes Claros"
+    },
+    {
+      "city": "Mossoro"
+    },
+    {
+      "city": "Muriae"
+    },
+    {
+      "city": "Natal"
+    },
+    {
+      "city": "Nova Friburgo"
+    },
+    {
+      "city": "Palmas"
+    },
+    {
+      "city": "Paranagua"
+    },
+    {
+      "city": "Parauapebas"
+    },
+    {
+      "city": "Parnaiba"
+    },
+    {
+      "city": "Passo Fundo"
+    },
+    {
+      "city": "Patos"
+    },
+    {
+      "city": "Patos de Minas"
+    },
+    {
+      "city": "Paulo Afonso"
+    },
+    {
+      "city": "Pelotas"
+    },
+    {
+      "city": "Petrolina"
+    },
+    {
+      "city": "Petropolis"
+    },
+    {
+      "city": "Piracicaba"
+    },
+    {
+      "city": "Pocos de Caldas"
+    },
+    {
+      "city": "Ponta Grossa"
+    },
+    {
+      "city": "Porto Alegre"
+    },
+    {
+      "city": "Porto Seguro"
+    },
+    {
+      "city": "Porto Velho"
+    },
+    {
+      "city": "Pouso Alegre"
+    },
+    {
+      "city": "Presidente Prudente"
+    },
+    {
+      "city": "Recife"
+    },
+    {
+      "city": "Ribeirao Preto"
+    },
+    {
+      "city": "Rio Branco"
+    },
+    {
+      "city": "Rio De Janeiro"
+    },
+    {
+      "city": "Rio Verde"
+    },
+    {
+      "city": "Rondonopolis"
+    },
+    {
+      "city": "Salvador"
+    },
+    {
+      "city": "Santa Cruz do Capibaribe"
+    },
+    {
+      "city": "Santa Cruz do Sul"
+    },
+    {
+      "city": "Santa Maria"
+    },
+    {
+      "city": "Santarem"
+    },
+    {
+      "city": "Santo Angelo"
+    },
+    {
+      "city": "Santo Antonio de Jesus"
+    },
+    {
+      "city": "Santos"
+    },
+    {
+      "city": "Sao Bento do Sul"
+    },
+    {
+      "city": "Sao Carlos"
+    },
+    {
+      "city": "Sao Jose do Rio Preto"
+    },
+    {
+      "city": "Sao Jose dos Campos"
+    },
+    {
+      "city": "Sao Luis"
+    },
+    {
+      "city": "Sao Paulo"
+    },
+    {
+      "city": "Sobral"
+    },
+    {
+      "city": "Sorocaba"
+    },
+    {
+      "city": "Teofilo Otoni"
+    },
+    {
+      "city": "Teresina"
+    },
+    {
+      "city": "Tres Rios"
+    },
+    {
+      "city": "Tucurui"
+    },
+    {
+      "city": "Uba"
+    },
+    {
+      "city": "Uberaba"
+    },
+    {
+      "city": "Uberlandia"
+    },
+    {
+      "city": "Umuarama"
+    },
+    {
+      "city": "Uruguaiana"
+    },
+    {
+      "city": "Valenca"
+    },
+    {
+      "city": "Varginha"
+    },
+    {
+      "city": "Vitoria"
+    },
+    {
+      "city": "Vitoria da Conquista"
+    },
+    {
+      "city": "Volta Redonda"
     }
   ],
   "tanzania": [
