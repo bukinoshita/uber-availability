@@ -4,5 +4,15 @@
       "city": "Brussels",
       "slug": "brussels"
     }
+  ],
+  "uruguay": [
+    {
+      "city": "Montevideo",
+      "slug": "montevideo"
+    },
+    {
+      "city": "Punta del Este",
+      "slug": "punta-del-este"
+    }
   ]
 }
