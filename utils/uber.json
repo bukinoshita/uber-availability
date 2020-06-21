@@ -15,6 +15,119 @@
       "city": "Mendoza"
     }
   ],
+  "australia": [
+    {
+      "city": "Adelaide"
+    },
+    {
+      "city": "Bendigo and Ballarat"
+    },
+    {
+      "city": "Bathurst"
+    },
+    {
+      "city": "Brisbane"
+    },
+    {
+      "city": "Bunbury"
+    },
+    {
+      "city": "Bundaberg"
+    },
+    {
+      "city": "Busselton"
+    },
+    {
+      "city": "Byron Bay"
+    },
+    {
+      "city": "Cairns"
+    },
+    {
+      "city": "Canberra"
+    },
+    {
+      "city": "Coffs Harbour"
+    },
+    {
+      "city": "Darwin"
+    },
+    {
+      "city": "Geelong"
+    },
+    {
+      "city": "Gladstone"
+    },
+    {
+      "city": "Gold Coast"
+    },
+    {
+      "city": "Hervey Bay"
+    },
+    {
+      "city": "Hobart"
+    },
+    {
+      "city": "Horsham"
+    },
+    {
+      "city": "Launceston"
+    },
+    {
+      "city": "Mackay"
+    },
+    {
+      "city": "Melbourne"
+    },
+    {
+      "city": "Mornington Peninsula"
+    },
+    {
+      "city": "Newcastle"
+    },
+    {
+      "city": "Orange"
+    },
+    {
+      "city": "Perth"
+    },
+    {
+      "city": "Port Macquarie"
+    },
+    {
+      "city": "Rockhampton"
+    },
+    {
+      "city": "Shepparton"
+    },
+    {
+      "city": "Sunshine Coast"
+    },
+    {
+      "city": "Surf Coast"
+    },
+    {
+      "city": "Sydney"
+    },
+    {
+      "city": "Tamworth"
+    },
+    {
+      "city": "Toowoomba"
+    },
+    {
+      "city": "Townsville"
+    },
+    {
+      "city": "Wagga Wagga"
+    },
+    {
+      "city": "Warrnambool"
+    },
+    {
+      "city": "Wollongong"
+    }
+  ],
   "austria": [
     {
       "city": "Innsbruck"
