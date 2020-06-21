@@ -1,6 +1,6 @@
 {
   "name": "uber-availability",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "an api to check uber availability in your city",
   "main": "index.js",
   "repository": "bukinoshita/uber-availability",
