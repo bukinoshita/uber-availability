@@ -4,6 +4,17 @@
       "city": "Andorra la Vella"
     }
   ],
+  "argentina": [
+    {
+      "city": "Buenos Aires"
+    },
+    {
+      "city": "Mar del Plata"
+    }
+    {
+      "city": "Mendoza"
+    }
+  ],
   "belgium": [
     {
       "city": "Brussels"
