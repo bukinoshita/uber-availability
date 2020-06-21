@@ -5,6 +5,14 @@
       "slug": "brussels"
     }
   ],
+  "united-arab-emirates": [
+    {
+      "city": "Abu Dhabi"
+    },
+    {
+      "city": "Dubai"
+    }
+  ],
   "uruguay": [
     {
       "city": "Montevideo",
