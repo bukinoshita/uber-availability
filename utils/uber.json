@@ -15,6 +15,17 @@
       "city": "Mendoza"
     }
   ],
+  "austria": [
+    {
+      "city": "Innsbruck"
+    },
+    {
+      "city": "Salzburg"
+    },
+    {
+      "city": "Vienna"
+    }
+  ],
   "bahrain": [
     {
       "city": "Manama"
