@@ -567,6 +567,797 @@
       "city": "Dubai"
     }
   ],
+  "united-states": [
+    {
+      "city": "Abilene"
+    },
+    {
+      "city": "Akron"
+    },
+    {
+      "city": "Albuquerque"
+    },
+    {
+      "city": "Amarillo"
+    },
+    {
+      "city": "Ames"
+    },
+    {
+      "city": "Anchorage"
+    },
+    {
+      "city": "Ann Arbor"
+    },
+    {
+      "city": "Asheville, NC"
+    },
+    {
+      "city": "Athens"
+    },
+    {
+      "city": "Atlanta"
+    },
+    {
+      "city": "Auburn"
+    },
+    {
+      "city": "Augusta"
+    },
+    {
+      "city": "Austin"
+    },
+    {
+      "city": "Bakersfield"
+    },
+    {
+      "city": "Baltimore-Maryland"
+    },
+    {
+      "city": "Baton Rouge"
+    },
+    {
+      "city": "Beaumont"
+    },
+    {
+      "city": "Bellingham"
+    },
+    {
+      "city": "Big Island"
+    },
+    {
+      "city": "Billings"
+    },
+    {
+      "city": "Birmingham, AL"
+    },
+    {
+      "city": "Bismarck"
+    },
+    {
+      "city": "Bloomington, IN"
+    },
+    {
+      "city": "Boise"
+    },
+    {
+      "city": "Boone"
+    },
+    {
+      "city": "Boston"
+    },
+    {
+      "city": "Bowling Green, KY"
+    },
+    {
+      "city": "Bozeman"
+    },
+    {
+      "city": "Carbondale"
+    },
+    {
+      "city": "Cedar Rapids"
+    },
+    {
+      "city": "Central Atlantic Coast, FL"
+    },
+    {
+      "city": "Central Oregon"
+    },
+    {
+      "city": "Champaign"
+    },
+    {
+      "city": "Charleston, SC"
+    },
+    {
+      "city": "Charlotte"
+    },
+    {
+      "city": "Charlottesville-Harrisonburg"
+    },
+    {
+      "city": "Chattanooga"
+    },
+    {
+      "city": "Chicago"
+    },
+    {
+      "city": "Cincinnati"
+    },
+    {
+      "city": "Cleveland"
+    },
+    {
+      "city": "Coastal Georgia"
+    },
+    {
+      "city": "Coeur D'Alene"
+    },
+    {
+      "city": "College Station"
+    },
+    {
+      "city": "Colorado Springs"
+    },
+    {
+      "city": "Columbia, SC"
+    },
+    {
+      "city": "Columbia, MO"
+    },
+    {
+      "city": "Columbus"
+    },
+    {
+      "city": "Columbus, GA"
+    },
+    {
+      "city": "Connecticut"
+    },
+    {
+      "city": "Cookeville"
+    },
+    {
+      "city": "Corpus Christi"
+    },
+    {
+      "city": "Dallas-Fort Worth"
+    },
+    {
+      "city": "Dayton"
+    },
+    {
+      "city": "Delaware"
+    },
+    {
+      "city": "Denver"
+    },
+    {
+      "city": "Des Moines"
+    },
+    {
+      "city": "Detroit"
+    },
+    {
+      "city": "Dickinson"
+    },
+    {
+      "city": "Dothan"
+    },
+    {
+      "city": "DuBois"
+    },
+    {
+      "city": "Dubuque"
+    },
+    {
+      "city": "Duluth"
+    },
+    {
+      "city": "Eagle Pass"
+    },
+    {
+      "city": "East Alabama"
+    },
+    {
+      "city": "Eastern Idaho"
+    },
+    {
+      "city": "Eastern North Carolina"
+    },
+    {
+      "city": "Eastern Shore"
+    },
+    {
+      "city": "Eastern Washington"
+    },
+    {
+      "city": "Eastern WV"
+    },
+    {
+      "city": "Eau Claire"
+    },
+    {
+      "city": "El Paso"
+    },
+    {
+      "city": "Erie"
+    },
+    {
+      "city": "Eugene, OR"
+    },
+    {
+      "city": "Evansville, IN"
+    },
+    {
+      "city": "Fairbanks"
+    },
+    {
+      "city": "Fargo - Moorhead"
+    },
+    {
+      "city": "Fayetteville, AR"
+    },
+    {
+      "city": "Fayetteville, NC"
+    },
+    {
+      "city": "Flagstaff"
+    },
+    {
+      "city": "Flint"
+    },
+    {
+      "city": "Florence, SC"
+    },
+    {
+      "city": "Florida Keys"
+    },
+    {
+      "city": "Fort Collins"
+    },
+    {
+      "city": "Fort Myers-Naples"
+    },
+    {
+      "city": "Fort Wayne"
+    },
+    {
+      "city": "Fresno"
+    },
+    {
+      "city": "Gainesville"
+    },
+    {
+      "city": "Gallup"
+    },
+    {
+      "city": "Golden Triangle"
+    },
+    {
+      "city": "Grand Forks"
+    },
+    {
+      "city": "Grand Rapids"
+    },
+    {
+      "city": "Greater Maine"
+    },
+    {
+      "city": "Greater Williamsport"
+    },
+    {
+      "city": "Green Bay"
+    },
+    {
+      "city": "Greenville, SC"
+    },
+    {
+      "city": "Gulfport-Biloxi"
+    },
+    {
+      "city": "Hampton Roads"
+    },
+    {
+      "city": "the Hamptons"
+    },
+    {
+      "city": "Harrisburg"
+    },
+    {
+      "city": "Hattiesburg, MS"
+    },
+    {
+      "city": "Honolulu"
+    },
+    {
+      "city": "Houston"
+    },
+    {
+      "city": "Huntsville, AL"
+    },
+    {
+      "city": "Indianapolis"
+    },
+    {
+      "city": "Inland Empire"
+    },
+    {
+      "city": "Iowa City"
+    },
+    {
+      "city": "Jackson"
+    },
+    {
+      "city": "Jackson, TN"
+    },
+    {
+      "city": "Jacksonville"
+    },
+    {
+      "city": "Johnstown-Altoona"
+    },
+    {
+      "city": "Jonesboro"
+    },
+    {
+      "city": "Juneau"
+    },
+    {
+      "city": "Kalamazoo"
+    },
+    {
+      "city": "Kansas City"
+    },
+    {
+      "city": "Kauai"
+    },
+    {
+      "city": "Killeen"
+    },
+    {
+      "city": "Knoxville"
+    },
+    {
+      "city": "La Crosse"
+    },
+    {
+      "city": "Lafayette-Lake Charles"
+    },
+    {
+      "city": "Lancaster, PA"
+    },
+    {
+      "city": "Lansing"
+    },
+    {
+      "city": "Laredo"
+    },
+    {
+      "city": "Las Cruces"
+    },
+    {
+      "city": "Las Vegas"
+    },
+    {
+      "city": "Lawrence"
+    },
+    {
+      "city": "Lawton"
+    },
+    {
+      "city": "Lehigh Valley"
+    },
+    {
+      "city": "Lexington"
+    },
+    {
+      "city": "Lincoln"
+    },
+    {
+      "city": "Little Rock"
+    },
+    {
+      "city": "Los Angeles"
+    },
+    {
+      "city": "Louisville"
+    },
+    {
+      "city": "Lubbock"
+    },
+    {
+      "city": "Macon"
+    },
+    {
+      "city": "Madison"
+    },
+    {
+      "city": "Manhattan"
+    },
+    {
+      "city": "Mankato"
+    },
+    {
+      "city": "Maui"
+    },
+    {
+      "city": "Mayaguez"
+    },
+    {
+      "city": "Memphis"
+    },
+    {
+      "city": "Meridian"
+    },
+    {
+      "city": "Miami"
+    },
+    {
+      "city": "Midland-Odessa"
+    },
+    {
+      "city": "Milwaukee"
+    },
+    {
+      "city": "Minneapolis - St. Paul"
+    },
+    {
+      "city": "Mississippi Delta"
+    },
+    {
+      "city": "Missoula"
+    },
+    {
+      "city": "Mobile, AL"
+    },
+    {
+      "city": "Modesto"
+    },
+    {
+      "city": "Monroe"
+    },
+    {
+      "city": "Montgomery, AL"
+    },
+    {
+      "city": "Myrtle Beach"
+    },
+    {
+      "city": "Nacogdoches"
+    },
+    {
+      "city": "Nashville"
+    },
+    {
+      "city": "New Hampshire"
+    },
+    {
+      "city": "New Jersey"
+    },
+    {
+      "city": "New Jersey (Shore)"
+    },
+    {
+      "city": "New Orleans"
+    },
+    {
+      "city": "New York City"
+    },
+    {
+      "city": "North Georgia"
+    },
+    {
+      "city": "Northern Missouri"
+    },
+    {
+      "city": "NW Indiana"
+    },
+    {
+      "city": "NYC Suburbs"
+    },
+    {
+      "city": "Ocala, FL"
+    },
+    {
+      "city": "Oklahoma City"
+    },
+    {
+      "city": "Olympia"
+    },
+    {
+      "city": "Omaha"
+    },
+    {
+      "city": "Orange County"
+    },
+    {
+      "city": "Orlando"
+    },
+    {
+      "city": "Outer Banks, NC"
+    },
+    {
+      "city": "Oxford"
+    },
+    {
+      "city": "Palm Springs"
+    },
+    {
+      "city": "Panama City, Fl"
+    },
+    {
+      "city": "Peninsula and SW WA"
+    },
+    {
+      "city": "Pensacola, FL"
+    },
+    {
+      "city": "Peoria, IL"
+    },
+    {
+      "city": "Philadelphia"
+    },
+    {
+      "city": "Phoenix"
+    },
+    {
+      "city": "Piedmont Triad"
+    },
+    {
+      "city": "Pierre"
+    },
+    {
+      "city": "Pittsburgh"
+    },
+    {
+      "city": "Ponce"
+    },
+    {
+      "city": "Portland"
+    },
+    {
+      "city": "Portland, ME"
+    },
+    {
+      "city": "Quad Cities"
+    },
+    {
+      "city": "Raleigh-Durham"
+    },
+    {
+      "city": "Rapid City"
+    },
+    {
+      "city": "Reading, PA"
+    },
+    {
+      "city": "Reno"
+    },
+    {
+      "city": "Rhode Island"
+    },
+    {
+      "city": "Richmond"
+    },
+    {
+      "city": "Rio Grande Valley"
+    },
+    {
+      "city": "Roanoke-Blacksburg"
+    },
+    {
+      "city": "Rochester, MN"
+    },
+    {
+      "city": "Rockford"
+    },
+    {
+      "city": "Rockies"
+    },
+    {
+      "city": "Sacramento"
+    },
+    {
+      "city": "Salt Lake City"
+    },
+    {
+      "city": "San Angelo"
+    },
+    {
+      "city": "San Antonio"
+    },
+    {
+      "city": "San Diego"
+    },
+    {
+      "city": "San Francisco Bay Area"
+    },
+    {
+      "city": "San Juan, PR"
+    },
+    {
+      "city": "San Luis Obispo"
+    },
+    {
+      "city": "Santa Barbara"
+    },
+    {
+      "city": "Santa Fe"
+    },
+    {
+      "city": "Sarasota"
+    },
+    {
+      "city": "Savannah-Hilton Head"
+    },
+    {
+      "city": "Seattle"
+    },
+    {
+      "city": "Shreveport-Alexandria"
+    },
+    {
+      "city": "Sioux City"
+    },
+    {
+      "city": "Sioux Falls"
+    },
+    {
+      "city": "South Alabama"
+    },
+    {
+      "city": "South Bend"
+    },
+    {
+      "city": "South Georgia"
+    },
+    {
+      "city": "South Tennessee"
+    },
+    {
+      "city": "Southern Arkansas"
+    },
+    {
+      "city": "Southern Oregon"
+    },
+    {
+      "city": "Southern Utah"
+    },
+    {
+      "city": "Spokane"
+    },
+    {
+      "city": "Springfield, IL"
+    },
+    {
+      "city": "Springfield, Mo"
+    },
+    {
+      "city": "St Cloud"
+    },
+    {
+      "city": "St Louis"
+    },
+    {
+      "city": "State College"
+    },
+    {
+      "city": "Stillwater"
+    },
+    {
+      "city": "Tacoma"
+    },
+    {
+      "city": "Tallahassee"
+    },
+    {
+      "city": "Tampa Bay"
+    },
+    {
+      "city": "Taos"
+    },
+    {
+      "city": "Terre Haute"
+    },
+    {
+      "city": "Texarkana"
+    },
+    {
+      "city": "The Shoals"
+    },
+    {
+      "city": "Toledo"
+    },
+    {
+      "city": "Topeka"
+    },
+    {
+      "city": "Traverse City"
+    },
+    {
+      "city": "Tri-Cities"
+    },
+    {
+      "city": "Tri-Cities, MI"
+    },
+    {
+      "city": "Tucson"
+    },
+    {
+      "city": "Tulsa"
+    },
+    {
+      "city": "Tuscaloosa"
+    },
+    {
+      "city": "Tyler"
+    },
+    {
+      "city": "Upstate NY"
+    },
+    {
+      "city": "Ventura"
+    },
+    {
+      "city": "Vermont"
+    },
+    {
+      "city": "Waco"
+    },
+    {
+      "city": "Washington D.C."
+    },
+    {
+      "city": "Waterloo-Cedar Falls"
+    },
+    {
+      "city": "West Lafayette"
+    },
+    {
+      "city": "West Texas"
+    },
+    {
+      "city": "Western Arizona"
+    },
+    {
+      "city": "Western MA"
+    },
+    {
+      "city": "Western WV"
+    },
+    {
+      "city": "Wichita"
+    },
+    {
+      "city": "Wichita Falls"
+    },
+    {
+      "city": "Wilkes-Barre Scranton"
+    },
+    {
+      "city": "Willamette Valley"
+    },
+    {
+      "city": "Wilmington, NC"
+    },
+    {
+      "city": "Worcester"
+    },
+    {
+      "city": "Wyoming"
+    },
+    {
+      "city": "York-Gettysburg"
+    },
+    {
+      "city": "Youngstown"
+    },
+    {
+      "city": "Yuma"
+    }
+  ],
   "uruguay": [
     {
       "city": "Montevideo"
