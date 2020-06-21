@@ -1,8 +1,7 @@
 {
   "belgium": [
     {
-      "city": "Brussels",
-      "slug": "brussels"
+      "city": "Brussels"
     }
   ],
   "united-arab-emirates": [
@@ -15,12 +14,10 @@
   ],
   "uruguay": [
     {
-      "city": "Montevideo",
-      "slug": "montevideo"
+      "city": "Montevideo"
     },
     {
-      "city": "Punta del Este",
-      "slug": "punta-del-este"
+      "city": "Punta del Este"
     }
   ]
 }
