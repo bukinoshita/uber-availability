@@ -567,6 +567,27 @@
       "city": "Dubai"
     }
   ],
+  "united-kingdom": [
+    { "city": "Belfast" },
+    { "city": "Birmingham, UK" },
+    { "city": "Brighton and Sussex" },
+    { "city": "Cambridge and East Anglia" },
+    { "city": "Cardiff" },
+    { "city": "Edinburgh" },
+    { "city": "Glasgow" },
+    { "city": "Home Counties" },
+    { "city": "Leeds" },
+    { "city": "Leicester" },
+    { "city": "London" },
+    { "city": "Manchester" },
+    { "city": "Merseyside" },
+    { "city": "North East, UK" },
+    { "city": "Nottingham" },
+    { "city": "Sheffield" },
+    { "city": "South Coast, UK" },
+    { "city": "South West, UK" },
+    { "city": "Stoke" }
+  ],
   "united-states": [
     {
       "city": "Abilene"
