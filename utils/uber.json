@@ -559,6 +559,15 @@
       "city": "Kampala"
     }
   ],
+  "ukraine": [
+    { "city": "Dnipro" },
+    { "city": "Kharkiv" },
+    { "city": "Kyiv" },
+    { "city": "Lviv" },
+    { "city": "Odessa" },
+    { "city": "Vinnytsia" },
+    { "city": "Zaporizhia" }
+  ],
   "united-arab-emirates": [
     {
       "city": "Abu Dhabi"
