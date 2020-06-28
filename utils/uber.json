@@ -577,6 +577,27 @@
     { "city": "Windsor" },
     { "city": "Winnipeg" }
   ],
+  "chile": [
+    { "city": "Antofagasta" },
+    { "city": "Arica" },
+    { "city": "Calama" },
+    { "city": "Concepcion" },
+    { "city": "Copiapo" },
+    { "city": "Coyhaique" },
+    { "city": "Iquique" },
+    { "city": "La Serena" },
+    { "city": "Los Andes" },
+    { "city": "Osorno" },
+    { "city": "Ovalle" },
+    { "city": "Puerto Montt" },
+    { "city": "Punta Arenas" },
+    { "city": "Rancagua" },
+    { "city": "Santiago" },
+    { "city": "Talca" },
+    { "city": "Temuco" },
+    { "city": "Valdivia" },
+    { "city": "Valparaiso" }
+  ],
   "mexico": [
     { "city": "Aguascalientes" },
     { "city": "Campeche" },
