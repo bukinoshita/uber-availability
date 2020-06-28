@@ -144,6 +144,17 @@
       "city": "Manama"
     }
   ],
+  "bangladesh": [
+    { "city": "Bagerhat" },
+    { "city": "Bogra" },
+    { "city": "Chittagong" },
+    { "city": "Coxs Bazar" },
+    { "city": "Dhaka" },
+    { "city": "Jessore" },
+    { "city": "Khulna" },
+    { "city": "Natore" },
+    { "city": "Rajshahi" }
+  ],
   "belgium": [
     {
       "city": "Brussels"
