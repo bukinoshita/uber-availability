@@ -556,6 +556,27 @@
       "city": "Volta Redonda"
     }
   ],
+  "canada": [
+    { "city": "Calgary" },
+    { "city": "Edmonton" },
+    { "city": "Gatineau" },
+    { "city": "Hamilton" },
+    { "city": "Kingston" },
+    { "city": "Kitchener-Waterloo" },
+    { "city": "Lethbridge" },
+    { "city": "London, Ont" },
+    { "city": "Montreal" },
+    { "city": "Niagara Region" },
+    { "city": "Ottawa" },
+    { "city": "Quebec City" },
+    { "city": "Red Deer" },
+    { "city": "Regina" },
+    { "city": "Saskatoon" },
+    { "city": "Toronto" },
+    { "city": "Vancouver" },
+    { "city": "Windsor" },
+    { "city": "Winnipeg" }
+  ],
   "mexico": [
     { "city": "Aguascalientes" },
     { "city": "Campeche" },
