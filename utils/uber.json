@@ -610,7 +610,12 @@
     { "city": "Pereira" },
     { "city": "Popayan" },
     { "city": "Valledupar" }
-  ]
+  ],
+  "costa-rica": [
+    { "city": "Liberia" },
+    { "city": "San Carlos" },
+    { "city": "San Jose, CR" }
+  ],
   "mexico": [
     { "city": "Aguascalientes" },
     { "city": "Campeche" },
