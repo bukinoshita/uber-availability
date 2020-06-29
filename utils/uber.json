@@ -622,6 +622,7 @@
     { "city": "Zagreb" }
   ],
   "czech-republic": [{ "city": "Prague" }],
+  "denmark": [{ "city": "Copenhagen" }],
   "mexico": [
     { "city": "Aguascalientes" },
     { "city": "Campeche" },
