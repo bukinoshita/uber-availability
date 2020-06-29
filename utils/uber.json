@@ -655,6 +655,7 @@
     { "city": "San Salvador" },
     { "city": "Santa Ana" }
   ],
+  "estonia": [{ "city": "Tallinn" }],
   "mexico": [
     { "city": "Aguascalientes" },
     { "city": "Campeche" },
