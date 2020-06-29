@@ -621,6 +621,7 @@
     { "city": "Croatian Coast" },
     { "city": "Zagreb" }
   ],
+  "czech-republic": [{ "city": "Prague" }],
   "mexico": [
     { "city": "Aguascalientes" },
     { "city": "Campeche" },
