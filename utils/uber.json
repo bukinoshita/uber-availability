@@ -656,6 +656,7 @@
     { "city": "Santa Ana" }
   ],
   "estonia": [{ "city": "Tallinn" }],
+  "finland": [{ "city": "Helsinki" }],
   "mexico": [
     { "city": "Aguascalientes" },
     { "city": "Campeche" },
