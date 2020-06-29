@@ -623,6 +623,13 @@
   ],
   "czech-republic": [{ "city": "Prague" }],
   "denmark": [{ "city": "Copenhagen" }],
+  "dominican-republic": [
+    { "city": "La Romana" },
+    { "city": "Puerto Plata" },
+    { "city": "San Pedro de Macoris" },
+    { "city": "Santiago, DR" },
+    { "city": "Santo Domingo" }
+  ],
   "mexico": [
     { "city": "Aguascalientes" },
     { "city": "Campeche" },
