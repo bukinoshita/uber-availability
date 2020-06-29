@@ -640,6 +640,16 @@
     { "city": "Salinas" },
     { "city": "Santo Domingo de Los Colorados" }
   ],
+  "egypt": [
+    { "city": "Alexandria" },
+    { "city": "Cairo" },
+    { "city": "Canal Cities" },
+    { "city": "Damietta" },
+    { "city": "Delta" },
+    { "city": "Hurghada" },
+    { "city": "Mansoura" },
+    { "city": "Zagazig" }
+  ],
   "mexico": [
     { "city": "Aguascalientes" },
     { "city": "Campeche" },
