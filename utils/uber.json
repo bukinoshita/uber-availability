@@ -630,6 +630,16 @@
     { "city": "Santiago, DR" },
     { "city": "Santo Domingo" }
   ],
+  "ecuador": [
+    { "city": "Ambato" },
+    { "city": "Guayaquil" },
+    { "city": "Ibarra" },
+    { "city": "Machala" },
+    { "city": "Manta" },
+    { "city": "Quito" },
+    { "city": "Salinas" },
+    { "city": "Santo Domingo de Los Colorados" }
+  ],
   "mexico": [
     { "city": "Aguascalientes" },
     { "city": "Campeche" },
