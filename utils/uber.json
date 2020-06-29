@@ -650,6 +650,11 @@
     { "city": "Mansoura" },
     { "city": "Zagazig" }
   ],
+  "el-salvador": [
+    { "city": "San Miguel" },
+    { "city": "San Salvador" },
+    { "city": "Santa Ana" }
+  ],
   "mexico": [
     { "city": "Aguascalientes" },
     { "city": "Campeche" },
