@@ -598,6 +598,19 @@
     { "city": "Valdivia" },
     { "city": "Valparaiso" }
   ],
+  "colombia": [
+    { "city": "Bogota" },
+    { "city": "Bucaramanga" },
+    { "city": "Cali - Colombia" },
+    { "city": "Cartagena" },
+    { "city": "Cucuta" },
+    { "city": "Ibague" },
+    { "city": "Medellin" },
+    { "city": "Monteria" },
+    { "city": "Pereira" },
+    { "city": "Popayan" },
+    { "city": "Valledupar" }
+  ]
   "mexico": [
     { "city": "Aguascalientes" },
     { "city": "Campeche" },
