@@ -616,6 +616,11 @@
     { "city": "San Carlos" },
     { "city": "San Jose, CR" }
   ],
+  "croatia": [
+    { "city": "Rijeka" },
+    { "city": "Croatian Coast" },
+    { "city": "Zagreb" }
+  ],
   "mexico": [
     { "city": "Aguascalientes" },
     { "city": "Campeche" },
