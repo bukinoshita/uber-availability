@@ -745,6 +745,7 @@
   ],
   "ireland": [{ "city": "Dublin" }],
   "israel": [{ "city": "Tel Aviv" }],
+  "italy": [{ "city": "Milan" }, { "city": "Rome" }, { "city": "Turin" }],
   "mexico": [
     { "city": "Aguascalientes" },
     { "city": "Campeche" },
