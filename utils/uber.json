@@ -743,6 +743,7 @@
     { "city": "Vijayawada" },
     { "city": "Visakhapatnam" }
   ],
+  "ireland": [{ "city": "Dublin" }],
   "mexico": [
     { "city": "Aguascalientes" },
     { "city": "Campeche" },
