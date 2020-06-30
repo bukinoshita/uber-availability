@@ -744,6 +744,7 @@
     { "city": "Visakhapatnam" }
   ],
   "ireland": [{ "city": "Dublin" }],
+  "israel": [{ "city": "Tel Aviv" }],
   "mexico": [
     { "city": "Aguascalientes" },
     { "city": "Campeche" },
