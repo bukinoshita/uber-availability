@@ -689,6 +689,7 @@
     { "city": "Stuttgart" }
   ],
   "ghana": [{ "city": "Accra" }, { "city": "Kumasi" }],
+  "greece": [{ "city": "Athens, GR" }],
   "mexico": [
     { "city": "Aguascalientes" },
     { "city": "Campeche" },
