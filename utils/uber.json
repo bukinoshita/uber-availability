@@ -692,6 +692,7 @@
   "greece": [{ "city": "Athens, GR" }],
   "guatemala": [{ "city": "Guatemala City" }, { "city": "Quetzaltenango" }],
   "honduras": [{ "city": "Tegucigalpa" }],
+  "hong-kong": [{ "city": "Hong Kong" }],
   "mexico": [
     { "city": "Aguascalientes" },
     { "city": "Campeche" },
