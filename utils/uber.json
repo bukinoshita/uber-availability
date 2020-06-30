@@ -679,6 +679,15 @@
     { "city": "Toulouse" },
     { "city": "Tours" }
   ],
+  "germany": [
+    { "city": "Berlin" },
+    { "city": "Cologne" },
+    { "city": "Dusseldorf" },
+    { "city": "Frankfurt" },
+    { "city": "Hamburg" },
+    { "city": "Munich" },
+    { "city": "Stuttgart" }
+  ],
   "mexico": [
     { "city": "Aguascalientes" },
     { "city": "Campeche" },
