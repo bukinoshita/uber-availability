@@ -691,6 +691,7 @@
   "ghana": [{ "city": "Accra" }, { "city": "Kumasi" }],
   "greece": [{ "city": "Athens, GR" }],
   "guatemala": [{ "city": "Guatemala City" }, { "city": "Quetzaltenango" }],
+  "honduras": [{ "city": "Tegucigalpa" }],
   "mexico": [
     { "city": "Aguascalientes" },
     { "city": "Campeche" },
