@@ -768,6 +768,7 @@
     { "city": "Toyama" },
     { "city": "Yokohama" }
   ],
+  "jordan": [{ "city": "Amman" }],
   "mexico": [
     { "city": "Aguascalientes" },
     { "city": "Campeche" },
