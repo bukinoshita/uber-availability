@@ -988,6 +988,25 @@
     { "city": "Vitoria, Spain" },
     { "city": "Yecla" }
   ],
+  "sri-lanka": [{ "city": "Colombo" }],
+  "sweden": [
+    { "city": "Gothenburg" },
+    { "city": "Malmö" },
+    { "city": "Stockholm" }
+  ],
+  "switzerland": [
+    { "city": "Basel" },
+    { "city": "Geneva" },
+    { "city": "Lausanne" },
+    { "city": "Zurich" }
+  ],
+  "taiwan": [
+    { "city": "Hsinchu" },
+    { "city": "Kaohsiung" },
+    { "city": "Taichung" },
+    { "city": "Taipei" },
+    { "city": "Taoyuan" }
+  ],
   "tanzania": [
     {
       "city": "Dar Es Salaam"
