@@ -770,6 +770,11 @@
     { "city": "Yokohama" }
   ],
   "jordan": [{ "city": "Amman" }],
+  "kenya": [{ "city": "Mombasa" }, { "city": "Nairobi" }],
+  "korea": [{ "city": "Incheon" }, { "city": "Seongnam" }, { "city": "Seoul" }],
+  "lebanon": [{ "city": "Beirut" }],
+  "lithuania": [{ "city": "Vilnius" }],
+  "macao": [{ "city": "Macau" }],
   "mexico": [
     { "city": "Aguascalientes" },
     { "city": "Campeche" },
@@ -827,6 +832,97 @@
     { "city": "Uruapan" },
     { "city": "Villahermosa" },
     { "city": "Zacatecas" }
+  ],
+  "morocco": [{ "city": "Casablanca" }],
+  "netherlands": [{ "city": "Amsterdam" }, { "city": "Southern Netherlands" }],
+  "new-zealand": [
+    { "city": "Auckland" },
+    { "city": "Christchurch" },
+    { "city": "Dunedin" },
+    { "city": "Hamilton, NZ" },
+    { "city": "Napier-Hastings" },
+    { "city": "Nelson" },
+    { "city": "New Plymouth" },
+    { "city": "Palmerston North" },
+    { "city": "Queenstown" },
+    { "city": "Tauranga" },
+    { "city": "Wellington" }
+  ],
+  "nigeria": [{ "city": "Abuja" }, { "city": "Gulu" }, { "city": "Lagos" }],
+  "norway": [{ "city": "Oslo" }],
+  "pakistan": [
+    { "city": "Faisalabad" },
+    { "city": "Gujranwala" },
+    { "city": "Hyderabad, Pakistan" },
+    { "city": "Islamabad" },
+    { "city": "Karachi" },
+    { "city": "Lahore" },
+    { "city": "Multan" },
+    { "city": "Peshawar" }
+  ],
+  "panama": [{ "city": "David" }, { "city": "Panama City, PA" }],
+  "paraguay": [{ "city": "Asuncion" }, { "city": "Encarnacion" }],
+  "peru": [{ "city": "Arequipa" }, { "city": "Cusco" }, { "city": "Lima" }],
+  "poland": [
+    { "city": "Czestochowa" },
+    { "city": "Krakow" },
+    { "city": "Lodz" },
+    { "city": "Lublin" },
+    { "city": "Poznan" },
+    { "city": "Radom" },
+    { "city": "Silesia" },
+    { "city": "Trojmiasto" },
+    { "city": "Warsaw" },
+    { "city": "Wroclaw" }
+  ],
+  "portugal": [
+    { "city": "Acores" },
+    { "city": "Algarve" },
+    { "city": "Aveiro" },
+    { "city": "Beja" },
+    { "city": "Braga" },
+    { "city": "Braganca PT" },
+    { "city": "Castelo Branco" },
+    { "city": "Coimbra" },
+    { "city": "Evora" },
+    { "city": "Funchal" },
+    { "city": "Guarda" },
+    { "city": "Leiria" },
+    { "city": "Lisbon" },
+    { "city": "Pacos de Ferreira" },
+    { "city": "Portalegre" },
+    { "city": "Porto" },
+    { "city": "Santarem Portugal" },
+    { "city": "Viana do Castelo" },
+    { "city": "Vila Real" },
+    { "city": "Viseu" }
+  ],
+  "qatar": [{ "city": "Doha" }],
+  "romania": [
+    { "city": "Brasov" },
+    { "city": "Bucharest" },
+    { "city": "Cluj" },
+    { "city": "Iasi" },
+    { "city": "Timisoara" }
+  ],
+  "saudi-arabia": [
+    { "city": "Eastern Province, KSA" },
+    { "city": "Jeddah" },
+    { "city": "Madinah" },
+    { "city": "Mecca" },
+    { "city": "North Saudi" },
+    { "city": "Qassim" },
+    { "city": "Riyadh" },
+    { "city": "Southern Saudi" },
+    { "city": "Tabuk" }
+  ],
+  "slovakia": [{ "city": "Bratislava" }],
+  "south-africa": [
+    { "city": "Cape Town" },
+    { "city": "Durban" },
+    { "city": "East London" },
+    { "city": "Johannesburg and Pretoria" },
+    { "city": "Port Elizabeth" }
   ],
   "spain": [
     { "city": "Alcoi" },
@@ -891,6 +987,25 @@
     { "city": "Vinaros" },
     { "city": "Vitoria, Spain" },
     { "city": "Yecla" }
+  ],
+  "sri-lanka": [{ "city": "Colombo" }],
+  "sweden": [
+    { "city": "Gothenburg" },
+    { "city": "Malmö" },
+    { "city": "Stockholm" }
+  ],
+  "switzerland": [
+    { "city": "Basel" },
+    { "city": "Geneva" },
+    { "city": "Lausanne" },
+    { "city": "Zurich" }
+  ],
+  "taiwan": [
+    { "city": "Hsinchu" },
+    { "city": "Kaohsiung" },
+    { "city": "Taichung" },
+    { "city": "Taipei" },
+    { "city": "Taoyuan" }
   ],
   "tanzania": [
     {
