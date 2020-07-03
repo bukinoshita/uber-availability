@@ -24,6 +24,6 @@
     "eslint-config-typescript": "3.0.0",
     "typescript": "3.9.5",
     "vercel": "19.1.1",
-    "xo": "0.32.0"
+    "xo": "0.32.1"
   }
 }
