@@ -23,7 +23,7 @@
     "@types/react": "16.9.41",
     "eslint-config-typescript": "3.0.0",
     "typescript": "3.9.6",
-    "vercel": "19.1.1",
+    "vercel": "19.1.2",
     "xo": "0.32.1"
   }
 }
